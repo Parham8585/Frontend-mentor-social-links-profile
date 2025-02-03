@@ -97,5 +97,6 @@ li a:focus {
 
 .attribution {
     margin-top: 2rem;
+    white-space: nowrap;
 }
 
